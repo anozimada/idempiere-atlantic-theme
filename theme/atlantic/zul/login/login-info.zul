@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2009 Low Heng Sin
+Copyright (C) 2009 Idalica Corporation
+-->
+<html>
+<![CDATA[
+<div class="loginInfoBox">
+<span class="section-head">Initially you can log into the system with the following users:
+</span>
+
+<table cellpadding="5" cellspacing="0">
+
+<tbody><tr valign="top">
+</th><th><i><b>User</b></i>
+</th><th><i><b>EMail</b></i>
+</th><th><i><b>Password</b></i>
+</th></tr>
+
+<tr valign="top">
+</td><td>GardenAdmin
+</td><td>admin @ gardenworld.com
+</td><td>GardenAdmin
+</td></tr>
+
+<tr valign="top">
+</td><td>GardenUser
+</td><td>user @ gardenworld.com
+</td><td>GardenUser
+</td></tr>
+
+<tr valign="top">
+</td><td>SuperUser
+</td><td>superuser @ idempiere.com
+</td><td>System
+</td></tr>
+
+<tr valign="top">
+</td><td>System
+</td><td>system @ idempiere.com
+</td><td>System
+</td></tr>
+
+</tbody>
+</table>
+</div>
+]]>
+</html>
