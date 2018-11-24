@@ -5,7 +5,7 @@ iDempiere theme based on ZK atlantic theme
 
 How to install:
 
-1. Download theme fragment from [releases](https://github.com/anozimada/idempiere-atlantic-theme/releases)
+1. Download theme fragment (jar file) from [releases](https://github.com/anozimada/idempiere-atlantic-theme/releases)
 2. Install the fragment jar [using Apache Felix Web Console](http://wiki.idempiere.org/en/Developing_Plug-Ins_-_Get_your_Plug-In_running#Apache_Felix_Web_Console)
 3. Login to iDempiere System and open System Configurator:
   * Set **ZK_THEME_USE_FONT_ICON_FOR_IMAGE** value from **N** to **Y**
@@ -24,3 +24,4 @@ VMOPTS="-Dorg.osgi.framework.bootdelegation=sun.security.ssl,org.w3c.dom.events
 -Dmail.mime.decodeparameters=true
 -Dorg.zkoss.zk.config.path=/WEB-INF/zk-atlantic.xml"
 ```
+5. Restart iDempiere
