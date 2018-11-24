@@ -1,5 +1,7 @@
 iDempiere Atlantic Theme
 ========
+[![GitHub release](https://img.shields.io/github/release/anozimada/idempiere-atlantic-theme.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/anozimada/idempiere-atlantic-theme/total.svg)]()
 
 iDempiere theme based on ZK atlantic theme 
 
