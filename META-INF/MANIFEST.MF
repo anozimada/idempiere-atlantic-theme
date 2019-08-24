@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: iDempiere Atlantic Theme
 Bundle-SymbolicName: com.anozimada.idempiere.theme.atlantic;singleton:=true
-Bundle-Version: 5.1.0
+Bundle-Version: 5.1.1
 Bundle-Vendor: Anozi Mada
 Fragment-Host: org.adempiere.ui.zk;bundle-version="5.1.0"
 Automatic-Module-Name: idempiere-atlantic-theme
